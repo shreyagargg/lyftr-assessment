@@ -92,3 +92,6 @@ python tests/test_webhook.py
 python tests/test_api.py
 
 ```
+
+ “Setup Used” =
+ "VS Code + Python + Gemini AI assistant"
